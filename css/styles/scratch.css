@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color:rgb(0, 0, 0);
+    background-color: lightblue;
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+
+
+.underline{text-decoration: underline;} 
+.bold{font-weight: bold;}
+.justify{text-align: justify;}
+
